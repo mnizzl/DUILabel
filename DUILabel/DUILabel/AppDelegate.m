@@ -29,7 +29,7 @@
     [self.window setRootViewController:nav];
     [nav release];
     
-    NSLog(@"32100");
+    NSLog(@"3");
     
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];

@@ -31,7 +31,11 @@
     
     NSLog(@"3");
     NSLog(@"3");
+
     sdfda
+
+    fdafda
+
     NSLog(@"3");
     
     self.window.backgroundColor = [UIColor whiteColor];

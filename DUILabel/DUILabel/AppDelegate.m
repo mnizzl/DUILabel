@@ -31,8 +31,11 @@
     
     NSLog(@"399");
     
+    origin/newworkspace
     
     NSLog(@"110");
+    
+    origin/newworkspace
     
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];

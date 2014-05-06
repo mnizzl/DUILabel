@@ -36,7 +36,7 @@
     
     NSLog(@"110");
     
-    
+    s12
     421gfjdskl
     
     self.window.backgroundColor = [UIColor whiteColor];

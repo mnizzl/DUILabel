@@ -36,7 +36,7 @@
 
     fdafda
 
-    NSLog(@"3");
+    NSLog(@"3222");
     
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];

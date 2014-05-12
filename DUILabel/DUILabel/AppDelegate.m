@@ -29,6 +29,7 @@
     [self.window setRootViewController:nav];
     [nav release];
     
+    NSLog(@"321");
 
     NSLog(@"123567890123s12f");
 

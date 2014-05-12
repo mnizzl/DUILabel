@@ -34,6 +34,8 @@
 
     NSLog(@"1--------------23567890123sf");
 
+
+    NSLog(@"12abcde");
     
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
